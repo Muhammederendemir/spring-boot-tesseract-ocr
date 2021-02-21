@@ -2,7 +2,7 @@
 
 > Spring Boot Tesseract Ocr Api
 >
-<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/blob/main/images/springboot-tesseract-ocr-openapi.png" alt="Spring Boot Tesseract Ocr Api" width="100%" height="100%"/> 
+<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/images/springboot-tesseract-ocr-openapi.png" alt="Spring Boot Tesseract Ocr Api" width="100%" height="100%"/> 
 
 ## Prerequisites
 
@@ -45,4 +45,4 @@ docker-compose up -d
 
 http://localhost:9090/api
 
-<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/blob/main/images/springdoc-openapi.png" alt="SpringDoc Openapi" width="100%" height="100%"/> 
+<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/images/springdoc-openapi.png" alt="SpringDoc Openapi" width="100%" height="100%"/> 
