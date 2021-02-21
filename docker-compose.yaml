@@ -1,0 +1,21 @@
+version: '3.7'
+services:
+  tesseract-ocr:
+    build: .
+    container_name: tesseract-ocr
+    restart: ${RESTART_POLICY}
+    environment:
+      - MAX_FILE_SIZE
+      - SERVER_PORT
+      - API_BASE_PATH
+      - TESSDATA_PATH
+      - TESSERACT_LANGUAGE
+      - TESSERACT_DPI
+      - OPENAPI_TITLE
+      - OPENAPI_DESCRIPTION
+      - OPENAPI_VERSION
+      - OPENAPI_TERMS-OF-SERVICE-URL
+      - OPENAPI_LICENCE
+      - OPENAPI_LICENCE_URL
+    ports:
+      - ${SERVER_PORT}:${SERVER_PORT}
