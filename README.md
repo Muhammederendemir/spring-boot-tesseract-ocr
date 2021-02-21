@@ -2,7 +2,7 @@
 
 > Spring Boot Tesseract Ocr Api
 >
-<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/images/springboot-tesseract-ocr-openapi.png" alt="Spring Boot Tesseract Ocr Api" width="100%" height="100%"/> 
+<img src="https://raw.githubusercontent.com/mhmmderen3/spring-boot-tesseract-ocr/master/images/springboot-tesseract-ocr-openapi.png" alt="Spring Boot Tesseract Ocr Api" width="100%" height="100%"/> 
 
 ## Prerequisites
 
