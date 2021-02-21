@@ -45,4 +45,4 @@ docker-compose up -d
 
 http://localhost:9090/api
 
-<img src="https://github.com/mhmmderen3/spring-boot-tesseract-ocr/images/springdoc-openapi.png" alt="SpringDoc Openapi" width="100%" height="100%"/> 
+<img src="https://raw.githubusercontent.com/mhmmderen3/spring-boot-tesseract-ocr/master/images/springdoc-openapi.png" alt="SpringDoc Openapi" width="100%" height="100%"/> 
